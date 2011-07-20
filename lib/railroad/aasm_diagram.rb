@@ -5,6 +5,7 @@
 # See COPYING for more details
 
 # AASM code provided by Ana Nelson (http://ananelson.com/)
+$: << Rails.root
 
 require 'railroad/app_diagram'
 
