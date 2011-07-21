@@ -4,6 +4,7 @@
 # Copyright 2007-2008 - Javier Smaldone (http://www.smaldone.com.ar)
 # See COPYING for more details
 
+$: << Rails.root
 require 'railroad/app_diagram'
 
 # RailRoad models diagram
